@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ec9a3a-15fb-48d4-8ff1-d9202a20024b" name="Changes" comment="Pacman part1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pacman/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pacman/Model.java" afterDir="false" />
-    </list>
+    <list default="true" id="f2ec9a3a-15fb-48d4-8ff1-d9202a20024b" name="Changes" comment="Add movePacman;&#10;Add moveGhost;&#10;Add drawPacman;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662936400954</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add movePacman;&#10;Add moveGhost;&#10;Add drawPacman;">
+      <created>1663101586158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663101586158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pacman part1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pacman part1" />
+    <MESSAGE value="Add movePacman;&#10;Add moveGhost;&#10;Add drawPacman;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add movePacman;&#10;Add moveGhost;&#10;Add drawPacman;" />
   </component>
 </project>
